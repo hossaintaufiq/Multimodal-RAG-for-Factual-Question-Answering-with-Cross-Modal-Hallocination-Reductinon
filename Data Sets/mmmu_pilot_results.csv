@@ -1,0 +1,6 @@
+sample_id,condition,prediction,ground_truth,correct
+validation_Agriculture_26,Image 1 only,D. Phytoplasmas,D,True
+validation_Agriculture_26,Image 2 only,"D. Phytoplasmas
+
+Phytoplasmas are small, plant-borne bacteria that can cause symptoms similar to those seen after glyphosate treatment, including 'little leaf' symptoms. They are known to infect blackberry plants and other crops, leading to stunted growth and abnormal leaf development.",D,True
+validation_Agriculture_26,Both images,D. Phytoplasmas,D,True
